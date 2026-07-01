@@ -8,3 +8,5 @@ __pycache__/
 known_faces/*
 !known_faces/sample.jpg
 
+latest_job.txt
+streamlit_app/latest_job.txt
